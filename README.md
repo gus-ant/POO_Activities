@@ -9,15 +9,17 @@ Aqui você vai encontrar os principais **trabalhos**, **listas de exercícios** 
 
 ```bash
 📂 listas/
-   └── Lista01/
-   └── Lista02/
+   └── Lista01
+   └── Lista02
    └── ...
 📂 trabalhos/
-   └── Trabalho01/
-   └── TrabalhoFinal/
+   └── Trabalho01
+   └── TrabalhoFinal
+   └── ...
 📂 provas/
-   └── Prova01/
-   └── Prova02/
+   └── Prova01
+   └── Prova02
+   └── ...
 ```
 
 ✅ O que você vai encontrar aqui?
@@ -32,8 +34,8 @@ Aqui você vai encontrar os principais **trabalhos**, **listas de exercícios** 
 
 🚀 Tecnologias Utilizadas
 
-    💻 Linguagem: Java (ou Python – adapte conforme o que estiver usando)
-
+    💻 Linguagem: Java / Python
+    
     🧰 Paradigma: Orientação a Objetos
 
     🧪 Testes e execução local com IDEs como VSCode ou Eclipse
